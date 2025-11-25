@@ -1,0 +1,7 @@
+{
+  "name": "Harmony App",
+  "description": "A speech-to-speech translation application designed to foster inclusive communication. It features real-time voice translation, a text-based chat option, and language learning aids, all wrapped in a user-friendly interface.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
